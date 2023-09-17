@@ -8,11 +8,12 @@
 - 🎓 Análise e Desenvolvimento de Sistemas - Ulbra (5º semestre).
 - 💻 Estudando atualmente Java, Springboot e Angular - Cod3r.
 
-###
+&nbsp;
+
 ## Jornada de aprendizado - Java.
  Busquei organizar o avanço na linguagem conforme techguide.sh/pt-BR/path/java/
 
-## Nivel 1
+**Nivel 1**
 - [x] **Java - Fundamentos**:
 - [x] **Conceitos de Orientação a Objetos**:
 - [ ] **Java - Manipulação de Erros**:
@@ -21,7 +22,7 @@
 - [x] **Java - Pacotes**:
 - [x] **Estruturas de Dados**:
 
-## Nivel 2
+**Nivel 2**
 - [ ] **JVM**:
 - [ ] **Java - Gerenciamento da Memória**:
 - [ ] **Spring Framework**:
@@ -29,13 +30,13 @@
 - [ ] **Build tools Java**:
 - [ ] **Java - Persistência**:
 
-## Nivel 3
+**Nivel 3**
 - [ ] **Arquitetura de Microsserviços**:
 - [ ] **Java - Concorrência**:
 - [ ] **Contêineres**:
 - [ ] **Kafka**:
 
-## Habilidade Auxiliar: Infraestrutura 
+**Habilidade Auxiliar: Infraestrutura**
 - [x] **Git e GitHub - Fundamentos**:
 - [x] **HTTP - Fundamentos**:
 - [ ] **JSON**:
