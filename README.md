@@ -4,14 +4,13 @@ Back-End Developer.
 I'm currently open Hiring.
 
 
-**Formação Acadêmica:**
+#Formação Acadêmica:
 🎓 Análise e Desenvolvimento de Sistemas - Ulbra (5º semestre).
 💻 Estudando atualmente Java, Springboot e Angular - Cod3r.
 
 Meu foco em estudo tem sido em Java,
 Busquei organizar o avanço na linguagem conforme techguide.sh/pt-BR/path/java/
 
-# Java
 ## Nivel 1
 - [x] **Java - Fundamentos**:
 - [x] **Conceitos de Orientação a Objetos**:
