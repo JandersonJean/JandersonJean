@@ -1,4 +1,48 @@
-### Hi there 👋
+### Olá, sou Janderson Pereira
+
+Back-End Developer.
+I'm currently open Hiring.
+
+
+**Formação Acadêmica:**
+🎓 Análise e Desenvolvimento de Sistemas - Ulbra (5º semestre).
+💻 Estudando atualmente Java, Springboot e Angular - Cod3r.
+
+Meu foco em estudo tem sido em Java,
+Busquei organizar o avanço na linguagem conforme techguide.sh/pt-BR/path/java/
+
+# Java
+## Nivel 1
+- [x] **Java - Fundamentos**:
+- [x] **Conceitos de Orientação a Objetos**:
+- [ ] **Java - Manipulação de Erros**:
+- [x] **Java - Coleções**:
+- [x] **Java - Testes**:
+- [x] **Java - Pacotes**:
+- [x] **Estruturas de Dados**:
+
+## Nivel 2
+- [ ] **JVM**:
+- [ ] **Java - Gerenciamento da Memória**:
+- [ ] **Spring Framework**:
+- [x] **Spring Boot**:
+- [ ] **Build tools Java**:
+- [ ] **Java - Persistência**:
+
+## Nivel 3
+- [ ] **Arquitetura de Microsserviços**:
+- [ ] **Java - Concorrência**:
+- [ ] **Contêineres**:
+- [ ] **Kafka**:
+
+## Habilidade Auxiliar: Infraestrutura 
+- [x] **Git e GitHub - Fundamentos**:
+- [x] **HTTP - Fundamentos**:
+- [ ] **JSON**:
+- [x] **Linha de comando - Fundamentos**:
+- [ ] **Cloud - Fundamentos**:
+- [x] **SQL - Fundamentos**:
+
 
 <!--
 **JandersonJean/JandersonJean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
