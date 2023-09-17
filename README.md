@@ -8,8 +8,9 @@
 - 🎓 Análise e Desenvolvimento de Sistemas - Ulbra (5º semestre).
 - 💻 Estudando atualmente Java, Springboot e Angular - Cod3r.
 
-Meu foco em estudo tem sido em Java,
-Busquei organizar o avanço na linguagem conforme techguide.sh/pt-BR/path/java/
+
+## Jornada de aprendizado - Java.
+ Busquei organizar o avanço na linguagem conforme techguide.sh/pt-BR/path/java/
 
 ## Nivel 1
 - [x] **Java - Fundamentos**:
