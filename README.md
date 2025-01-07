@@ -5,7 +5,7 @@
 
 
 ## Formação Acadêmica:
-- 🎓 Análise e Desenvolvimento de Sistemas - Ulbra (5º semestre).
+- 🎓 Análise e Desenvolvimento de Sistemas - Ulbra.
 - 💻 Estudando atualmente Java, Springboot e Angular - Cod3r.
 
 &nbsp;
@@ -18,7 +18,7 @@
 - [x] **Conceitos de Orientação a Objetos**:
 - [ ] **Java - Manipulação de Erros**:
 - [x] **Java - Coleções**:
-- [x] **Java - Testes**:
+- [ ] **Java - Testes**:
 - [x] **Java - Pacotes**:
 - [x] **Estruturas de Dados**:
 
