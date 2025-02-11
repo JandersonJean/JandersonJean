@@ -16,14 +16,14 @@
 **Nivel 1**
 - [x] **Java - Fundamentos**:
 - [x] **Conceitos de Orientação a Objetos**:
-- [ ] **Java - Manipulação de Erros**:
+- [x] **Java - Manipulação de Erros**:
 - [x] **Java - Coleções**:
 - [ ] **Java - Testes**:
 - [x] **Java - Pacotes**:
 - [x] **Estruturas de Dados**:
 
 **Nivel 2**
-- [ ] **JVM**:
+- [x] **JVM**:
 - [ ] **Java - Gerenciamento da Memória**:
 - [ ] **Spring Framework**:
 - [x] **Spring Boot**:
