@@ -25,10 +25,10 @@
 **Nivel 2**
 - [x] **JVM**:
 - [ ] **Java - Gerenciamento da Memória**:
-- [ ] **Spring Framework**:
+- [x] **Spring Framework**:
 - [x] **Spring Boot**:
 - [ ] **Build tools Java**:
-- [ ] **Java - Persistência**:
+- [x] **Java - Persistência**:
 
 **Nivel 3**
 - [ ] **Arquitetura de Microsserviços**:
@@ -39,7 +39,7 @@
 **Habilidade Auxiliar: Infraestrutura**
 - [x] **Git e GitHub - Fundamentos**:
 - [x] **HTTP - Fundamentos**:
-- [ ] **JSON**:
+- [x] **JSON**:
 - [x] **Linha de comando - Fundamentos**:
 - [ ] **Cloud - Fundamentos**:
 - [x] **SQL - Fundamentos**:
