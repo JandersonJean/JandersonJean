@@ -10,52 +10,54 @@
 
 &nbsp;
 
-## Jornada de aprendizado - Java.
- Busquei organizar o avanço na linguagem conforme techguide.sh/pt-BR/path/java/
+🚀 Roadmap Backend Java (2025)  
 
-**Nivel 1**
-- [x] **Java - Fundamentos**:
-- [x] **Conceitos de Orientação a Objetos**:
-- [x] **Java - Manipulação de Erros**:
-- [x] **Java - Coleções**:
-- [ ] **Java - Testes**:
-- [x] **Java - Pacotes**:
-- [x] **Estruturas de Dados**:
+---
 
-**Nivel 2**
-- [x] **JVM**:
-- [ ] **Java - Gerenciamento da Memória**:
-- [x] **Spring Framework**:
-- [x] **Spring Boot**:
-- [ ] **Build tools Java**:
-- [x] **Java - Persistência**:
+## ✅ **Checklist por Níveis**  
 
-**Nivel 3**
-- [ ] **Arquitetura de Microsserviços**:
-- [ ] **Java - Concorrência**:
-- [ ] **Contêineres**:
-- [ ] **Kafka**:
+### **📌 Nível 1: Fundamentos**  
+- [x] Java - Fundamentos (Syntax, Tipos, Loops)  
+- [x] Orientação a Objetos (Herança, Polimorfismo, Interfaces)
+- [x] Manipulação de Erros (Try-Catch, Custom Exceptions)
+- [x] Coleções (List, Map, Stream API)
+- [ ] Testes (JUnit, Mockito)  
+- [x] Pacotes e Modularidade
+- [x] Estruturas de Dados (ArrayList, HashMap, Big-O)
+- [x] Lambda Functions (Functional Interfaces, Predicate, Consumer)
+- [x] Stream API (map/filter/reduce)
 
-**Habilidade Auxiliar: Infraestrutura**
-- [x] **Git e GitHub - Fundamentos**:
-- [x] **HTTP - Fundamentos**:
-- [x] **JSON**:
-- [x] **Linha de comando - Fundamentos**:
-- [ ] **Cloud - Fundamentos**:
-- [x] **SQL - Fundamentos**:
+### **📌 Nível 2: Intermediário**  
+- [x] JVM (JRE vs JDK, Bytecode)  
+- [ ] Gerenciamento de Memória (Heap, Stack, Garbage Collection)  
+- [x] Spring Framework (Spring Data JPA, Spring MVC)  
+- [x] Spring Boot (Auto-Configuration, Starter Projects)  
+- [ ] Build Tools (Maven)  
+- [x] Persistência (JPA/Hibernate, Spring Data JPA)  
+- **Banco de Dados e Persistência**:  
+  - [x] SQL (PostgreSQL/MySQL) → Consultas avançadas, transações, índices  
+  - [x] JPA/Hibernate → Mapeamento ORM, lazy loading, cache  
+  - [x] NoSQL (MongoDB) → Casos de uso, consultas agregadas  
 
+### **📌 Nível 3: Avançado**  
+- [ ] Arquitetura de Microsserviços (Spring Cloud, Service Discovery)  
+- [ ] Concorrência (Threads, CompletableFuture, Virtual Threads)  
+- [ ] Contêineres (Docker, Kubernetes)  
+- [ ] Kafka (Event-Driven Architecture)  
 
-<!--
-**JandersonJean/JandersonJean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### **🛠 Habilidades Auxiliares**  
+- [x] Git/GitHub (Branching, Pull Requests)  
+- [x] HTTP (Methods, Status Codes, REST)  
+- [x] JSON (Serialização/Deserialização)  
+- [x] Linha de Comando (Bash/PowerShell)  
+- [ ] Cloud (AWS/Azure/GCP - Fundamentos)  
+- [x] SQL - Fundamentos (Joins, Transactions)  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 **Progresso Visual**  
+```text
+Nível 1:  ██████████ 100%  
+Nível 2:  ██████░░░░ 60%  
+Nível 3:  ░░░░░░░░░░ 0%  
+Habilidades Auxiliares: ██████░░░░ 70%  
